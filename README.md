@@ -44,11 +44,11 @@ People with many different profiles and experiences are invited **to share serio
  All you need to do is show up, and you will be given the opportunity to **propose some games, or play the games proposed by the others**.
 
 ## Resources
+* [#play14 unconference](https://play14.org/)
+* [Open space infographics](images/open-space-technology.pdf)
 * [Debriefing cube - *How to debrief a serious game ?*](http://www.kilearning.net/TheDebriefingCube_CC-BY_v13.pdf) 
 
 ![debriefing -cube](images/debriefing-cube.png)
-
-* [Open space infographics](images/open-space-technology.pdf)
 
 ## Our cheat sheet
 ![Cheat sheet](images/infographic.png)
